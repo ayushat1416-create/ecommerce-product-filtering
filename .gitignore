@@ -1,0 +1,18 @@
+# node
+node_modules/
+package-lock.json
+
+# environment
+.env
+backend/.env
+frontend/.env
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# build
+dist/
